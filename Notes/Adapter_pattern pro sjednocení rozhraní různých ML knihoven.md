@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 tags: #adapter_pattern #machine_learning #software_integration
 created: 2025-12-13T19:52:24.357Z
 

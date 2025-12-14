@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 tags: #bridge_pattern #software_architecture #recommender_systems
 created: 2025-12-13T19:52:24.360Z
 
